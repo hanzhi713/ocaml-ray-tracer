@@ -1,0 +1,10 @@
+(env
+ (dev
+  (flags (:standard)))
+ (release
+  (ocamlopt_flags -O3)))
+
+(executables
+ (names raytracer)
+ (modes exe)
+ (libraries bimage bimage-unix))

@@ -1,0 +1,5 @@
+png 800 800 hw3plane.png
+sphere 0 0 -1 0.5
+plane 1 2 0.1 4
+plane 0 1 0 0.5
+sun 1 1 1

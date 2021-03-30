@@ -1,0 +1,33 @@
+png 1440 1440 random3.png
+
+plane 1 0 0 1
+plane -1 0 0 1
+
+plane 0 1 0 1
+plane 0 -1 0 1
+
+bounces 16
+shininess 0.9
+plane 0 0 1 2
+plane 0 0 1 -1
+
+color .5 0 .5
+bulb 0 0.99 -1
+color .0 .5 .5
+bulb -0.99 0 -1
+color .5 .5 .0
+bulb 0.99 0 -1
+
+shininess 0.5
+roughness 0.05
+
+color 1 1 1
+sphere -0.79 -0.79 -1.79 0.2
+sphere 0.79 -0.79 -1.79 0.2
+sphere -0.79 0.79 -1.79 0.2
+sphere 0.79 0.79 -1.79 0.2
+
+shininess 0.5
+roughness 0.0
+sphere 0 -0.699 -1.5 0.3
+
