@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a re-implementation of homework 3 of CS 4810 computer graphics. It is translated from my original C++ implementation. Some OCaml constructs are inspired by https://www.ffconsultancy.com/languages/ray_tracer/comparison.html. This serves as the course project of CS 4610 Programming Languages. I am required to stick to the functional programming style, so imperative OCaml constructs are mostly avoided.
+This is a re-implementation of homework 3 (ray tracing) of CS 4810 computer graphics. It is translated from my original C++ implementation (not disclosed yet). Some OCaml constructs are inspired by https://www.ffconsultancy.com/languages/ray_tracer/comparison.html. This serves as the course project of CS 4610 Programming Languages. I am required to stick to the functional programming style, so imperative OCaml constructs are mostly avoided.
 
 The homework description can be found at https://www.cs.virginia.edu/luther/4810/F2020/hw3.html. It includes command and feature specification. 
 
